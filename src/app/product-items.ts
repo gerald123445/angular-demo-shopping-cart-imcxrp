@@ -6,7 +6,7 @@ export const products = [
     categoryId: 1,
     price: 20,
     image:
-      'https://www.google.com/search?q=blue+polo+shirt+png&bih=754&biw=1536&hl=en-GB&sxsrf=AJOqlzXbsU_3ZAlOQJcrDe-9GEGZcDpXmA:1679547156285&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjayojdoPH9AhXpcWwGHSgNB8AQ_AUoAXoECAEQAw#imgrc=bjjjHxmL-Uts5M',
+      'https://www.pngegg.com/en/png-bcnmh',
   },
   {
     id: 2,
