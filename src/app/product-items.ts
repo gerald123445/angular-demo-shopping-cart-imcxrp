@@ -5,7 +5,7 @@ export const products = [
     category: 'Men Accessories',
     categoryId: 1,
     price: 20,
-    image: '',
+    image: 'https://www.pngegg.com/en/png-bcnmh',
   },
   {
     id: 2,
