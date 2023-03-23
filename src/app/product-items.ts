@@ -5,8 +5,7 @@ export const products = [
     category: 'Men Accessories',
     categoryId: 1,
     price: 20,
-    image:
-      'png-clipart-blue-polo-shirt-collage-t-shirt-polo-shirt-clothing-polo-shirt-tshirt-blue.png',
+    image: '',
   },
   {
     id: 2,
